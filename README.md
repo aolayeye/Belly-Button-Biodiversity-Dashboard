@@ -7,7 +7,6 @@ Improbable beef has gathered demographic and belly button data from 153 voluntee
 - a bubble chart that emphasizes bacterial species with the highest concentration per individual
 - a gauge chart that displays belly washing frequency per week for each volunteer. 
       
-      
 
 Suppose Improbable Beef identifies a bacterial species as a candidate to manufacture synthetic beef; in that case, our Visualization will help to determine whether that species is found in the navel of any one of the volunteers.
 
@@ -50,3 +49,4 @@ Bubble Chart
 Belly_Button_Biodiversity_Dashboard
 
 ![Belly_Button_Biodiversity_Dashboard](https://user-images.githubusercontent.com/67847583/125714893-ffe32cc1-5e29-4bcb-9031-412ab1f67bc3.png)
+![Mobile_Responsive_1](https://user-images.githubusercontent.com/67847583/125840144-12766f86-9b56-4a13-a7f1-a138296ce507.jpg)
