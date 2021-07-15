@@ -7,10 +7,9 @@ Improbable beef has gathered demographic and belly button data from 153 voluntee
 ### Control Flow
 1.  reate a folder structure to hold the index.html file, and the JavaScript files
 2.  Create a basic HTML page to view the belly button JSON data
-      - The HTML page will hold a dropdown panel for the volunteer ID
+      - The HTML page will hold a dropdown panel for the volunteer ID and their corresponding demographic data
       - two columns that will hold a horizontal bar chart and a gauge chart
       - a row to dsiplay a bubble chart
-      
 3.  Create a JavaScript to read the JSON data     
 4.  Load and inspect the belly button JSON data using the JavaScript, and Web browser's console log
 5.  create an event listener to check for changes in the volunteer ID
