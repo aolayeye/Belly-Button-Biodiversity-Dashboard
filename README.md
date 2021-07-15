@@ -24,10 +24,8 @@ Improbable beef has gathered demographic and belly button data from 153 voluntee
 7.  The final part of the function will a gauge chart that displays the weekly washing frequency's value, and display the value as a measure from 0-10 on the progress bar in the gauge chart when an individual ID is selected from the dropdown menu.
 
 ### Results
-Horizontal Bar Chart
+Horizontal Bar Chart and Gauge Chart
 ![Horizontal_Bar_Chart](https://user-images.githubusercontent.com/67847583/125714797-46cde65b-b414-401d-b962-1887dfb18cac.png)
-
-Gauge Chart
 ![Gauge_Chart](https://user-images.githubusercontent.com/67847583/125714827-57ec3dfb-4cf6-4102-9dd0-51b69ce85e65.png)
 
 
