@@ -24,6 +24,14 @@ Improbable beef has gathered demographic and belly button data from 153 voluntee
 7.  The final part of the function will a gauge chart that displays the weekly washing frequency's value, and display the value as a measure from 0-10 on the progress bar in the gauge chart when an individual ID is selected from the dropdown menu.
 
 ### Results
+The HTML page is customized with the following features:
+1. An image is added to the jumbotron
+2. A custom bootswatch theme was used to complement Boostrap 3.3.7
+3. A paragraph summarsing the visualizations was added.
+4. A navigation bar was added to select the different visualizations
+5. Brief information is added under each visualization for added context
+6. All clumn Divs add up to 12 to make the page mobile responsive
+
 Horizontal Bar Chart: Top 10 Bacteria Cultures Found and Gauge Chart: Gauge Chart: Belly Button Washing Frequency
 
 ![Horizontal_Bar_Chart](https://user-images.githubusercontent.com/67847583/125715296-1601304c-1f35-44f9-91f2-b22f110e48e1.png)
