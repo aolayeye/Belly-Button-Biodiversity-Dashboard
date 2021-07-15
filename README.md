@@ -30,7 +30,7 @@ The HTML page is customized with the following features:
 3. A paragraph summarsing the visualizations was added.
 4. A navigation bar was added to select the different visualizations
 5. Brief information is added under each visualization for added context
-6. All clumn Divs add up to 12 to make the page mobile responsive
+6. All column DIVs add up to 12 to make the page mobile responsive
 
 Horizontal Bar Chart: Top 10 Bacteria Cultures Found and Gauge Chart: Gauge Chart: Belly Button Washing Frequency
 
