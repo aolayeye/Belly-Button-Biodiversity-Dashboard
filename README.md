@@ -25,9 +25,7 @@ Improbable beef has gathered demographic and belly button data from 153 voluntee
 
 ### Results
 Horizontal Bar Chart
-
 ![Horizontal_Bar_Chart](https://user-images.githubusercontent.com/67847583/125714797-46cde65b-b414-401d-b962-1887dfb18cac.png)
-
 Gauge Chart
 ![Gauge_Chart](https://user-images.githubusercontent.com/67847583/125714827-57ec3dfb-4cf6-4102-9dd0-51b69ce85e65.png)
 
