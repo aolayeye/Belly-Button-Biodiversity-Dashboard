@@ -39,7 +39,7 @@ The HTML page is customized with the following features:
 5. Brief information is added under each visualization for added context
 6. All column DIVs add up to 12 to make the page mobile responsive
 
-Horizontal Bar Chart: Top 10 Bacteria Cultures Found and Gauge Chart: Gauge Chart: Belly Button Washing Frequency
+Horizontal Bar Chart: Top 10 Bacteria Cultures Found and Gauge Chart: Showing Belly Button Washing Frequency
 
 ![Horizontal_Bar_Chart](https://user-images.githubusercontent.com/67847583/125715296-1601304c-1f35-44f9-91f2-b22f110e48e1.png)
 ![Gauge_Chart](https://user-images.githubusercontent.com/67847583/125715302-07b0500e-fb82-481f-af11-6fcdf499d5cf.png)
