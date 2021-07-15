@@ -1,8 +1,12 @@
 # Belly-Button-Biodiversity-Dashboard
 ## Overview
-The goal of this project is to visualize belly button microbial data. To identify a vaiable alternative source of beef, improbable beef has decided to gather data from volunteers and determine whether their belly button could be the potential source of bacteria species that can be synthesized to make beef alternative. 
+The goal of this project is to visualize belly button microbial data. To identify a viable bacteria species that can synthesize a protein that tastes like beef. A food startup company, Improbable Beef, has decided to gather data from volunteers and determine whether their belly button could be the potential source of bacteria species that can synthesize protein to make beef alternatives. 
 
-Improbable beef has gathered demographic and belly button data from 153 volunteers. We will use this data to create visualization that will help easily identify people that may have bacteria that can be used to synthesize beef. At the end of the analysis, we will produce a bar chart that visualises the top 10 bacterial species found in the belly buttons of the volunteers, a bubble chart that emphasises bacterial species with the highest concentration per individual, and a gauge chart that displays belly washing frequency per week for each volunteer. If Improbable Beef identifies a bacterial species as a candidate to manufacture synthetic beef, our Visualization will help to identify whether that species is found in the navel of anyone of the volunteers.
+Improbable beef has gathered demographic and belly button data from 153 volunteers. Since bacteria in the same location in the human body may vary, we will use this data to create Visualization that will help quickly identify people that may have bacteria that can be used to synthesize beef. At the end of the analysis, we will produce three Visualizations: 
+      1) a bar chart that visualizes the top 10 bacterial species found in the volunteers' belly buttons
+      2) a bubble chart that emphasizes bacterial species with the highest concentration per individual
+      3) a gauge chart that displays belly washing frequency per week for each volunteer. 
+Suppose Improbable Beef identifies a bacterial species as a candidate to manufacture synthetic beef; in that case, our Visualization will help to determine whether that species is found in the navel of any one of the volunteers.
 
 ### Control Flow
 1.  Create a folder structure to hold the index.html file, and the JavaScript files
