@@ -6,11 +6,19 @@ Improbable beef has gathered demographic and belly button data from 153 voluntee
 
 ### Control Flow
 1.  Create a folder structure to hold the index.html file, and the JavaScript files
-2.  Create a basic HTML page to view the belly button JSON data
+2.  create a basic HTML page to view the belly button JSON data
+3.  Load and inspect the belly button JSON data using the JavaScript, and Web browser's console log
+4.  Create an event listener to check for changes in the volunteer ID
+5.  The HTML page will have the following layout
       - The HTML page will hold a dropdown panel for the volunteer ID and their corresponding demographic data
       - two columns that will hold a horizontal bar chart and a gauge chart
       - a row to dsiplay a bubble chart
-3.  Create a JavaScript to read the JSON data     
-4.  Load and inspect the belly button JSON data using the JavaScript, and Web browser's console log
-5.  Create an event listener to check for changes in the volunteer ID
-6.   
+6.  Create a JavaScript to read the JSON data     
+      - The JavaScript will contain a function that creates a horizontal bar chart to display the top 10 bacterial species (OTUs) when an individual’s ID is selected from the dropdown menu on the webpage. The horizontal bar chart will display the sample_values as the values, the otu_ids as the labels, and the otu_labels as the hover text for the bars on the chart.
+      - Another block of code in the function will create a bubble chart that will display the following when an individual’s ID is selected from the dropdown menu webpage:
+            - The otu_ids as the x-axis values.
+            - The sample_values as the y-axis values.
+            - The sample_values as the marker size.
+            - The otu_ids as the marker colors.
+            - The otu_labels as the hover-text values. 
+7.  The final part of the function will a gauge chart that displays the weekly washing frequency's value, and display the value as a measure from 0-10 on the progress bar in the gauge chart when an individual ID is selected from the dropdown menu.
