@@ -22,3 +22,19 @@ Improbable beef has gathered demographic and belly button data from 153 voluntee
             - The otu_ids as the marker colors.
             - The otu_labels as the hover-text values. 
 7.  The final part of the function will a gauge chart that displays the weekly washing frequency's value, and display the value as a measure from 0-10 on the progress bar in the gauge chart when an individual ID is selected from the dropdown menu.
+
+### Results
+Horizontal Bar Chart
+
+![Horizontal_Bar_Chart](https://user-images.githubusercontent.com/67847583/125714797-46cde65b-b414-401d-b962-1887dfb18cac.png)
+
+Gauge Chart
+![Gauge_Chart](https://user-images.githubusercontent.com/67847583/125714827-57ec3dfb-4cf6-4102-9dd0-51b69ce85e65.png)
+
+
+Bubble Chart
+![Bubble_Chart](https://user-images.githubusercontent.com/67847583/125714843-03f74d67-1c74-457f-ab4f-7e5721bd09d4.png)
+
+
+Belly_Button_Biodiversity_Dashboard
+![Belly_Button_Biodiversity_Dashboard](https://user-images.githubusercontent.com/67847583/125714893-ffe32cc1-5e29-4bcb-9031-412ab1f67bc3.png)
