@@ -49,3 +49,5 @@ Bubble Chart
 Belly_Button_Biodiversity_Dashboard
 
 ![Belly_Button_Biodiversity_Dashboard](https://user-images.githubusercontent.com/67847583/125714893-ffe32cc1-5e29-4bcb-9031-412ab1f67bc3.png)
+![Mobile_2](https://user-images.githubusercontent.com/67847583/126076448-ac24a38c-7fe9-405c-b71c-4496104d82b6.png)
+
