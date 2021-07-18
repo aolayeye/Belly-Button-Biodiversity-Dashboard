@@ -46,7 +46,7 @@ Horizontal Bar Chart: Top 10 Bacteria Cultures Found and Gauge Chart: Showing Be
 Bubble Chart
 ![Bubble_Chart](https://user-images.githubusercontent.com/67847583/125714843-03f74d67-1c74-457f-ab4f-7e5721bd09d4.png)
 
-Belly_Button_Biodiversity_Dashboard
+Belly_Button_Biodiversity_Dashboard Web and Mobile Responsive
 
 ![Belly_Button_Biodiversity_Dashboard](https://user-images.githubusercontent.com/67847583/125714893-ffe32cc1-5e29-4bcb-9031-412ab1f67bc3.png)
 ![Mobile_View_01](https://user-images.githubusercontent.com/67847583/126077053-22c6e15f-eff0-4a55-be40-548728e4a37c.png)
