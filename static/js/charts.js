@@ -102,8 +102,9 @@ function buildCharts(sample) {
                 tickmode:"linear"
             }
     };
+    var config = {responsive: true};
     // 10. Use Plotly to plot the data with the layout. 
-    Plotly.newPlot('bar', barData, barLayout);
+    Plotly.newPlot('bar', barData, barLayout, config);
 
     // 1. Create the trace for the bubble chart.
     var trace = {
@@ -130,9 +131,10 @@ function buildCharts(sample) {
         autosize: true
         //width: 1200, height: 500
     };
+    var config = {responsive: true};
 
     // 3. Use Plotly to plot the data with the layout.
-    Plotly.newPlot('bubble', bubbleData, bubbleLayout);
+    Plotly.newPlot('bubble', bubbleData, bubbleLayout, config);
 
     //Gauge chart
     // Create a variable that filters the samples for the object with the desired sample number.
@@ -210,8 +212,10 @@ function buildCharts(sample) {
       margin: { t: 30, r: 30, l: 30, b: 30 }
     };
 
+    var config = {responsive: true};
+
     // 6. Use Plotly to plot the gauge data and layout.
-    Plotly.newPlot("gauge", gaugeData, gaugeLayout);
+    Plotly.newPlot("gauge", gaugeData, gaugeLayout, config);
   });
 };
   
